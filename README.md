@@ -6,9 +6,7 @@
 
 
 - 🌱 I’m currently learning Rust
-- ✍️ I regularly write articles on http://xzalab.top
 - 📫 How to reach me: xingzhiang2020@gmail.com
 
-
-[![most use language](https://github-readme-stats.vercel.app/api/top-langs/?username=XingZhiang&theme=radical&show_icons=true&layout=compact&langs_count=8)](http://xzalab.top)
+![most use language](https://github-readme-stats.vercel.app/api/top-langs/?username=XingZhiang&theme=radical&show_icons=true&layout=compact&langs_count=8)
 
